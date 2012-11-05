@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
         
         AppHelper thisHelper = new AppHelper();
         int value = thisHelper.getValue();
+        
+        int expectedValue = 1;
     }
 
     @Override
